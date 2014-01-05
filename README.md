@@ -9,7 +9,6 @@
 ### Command
 vagrant up  
 vagrant ssh 
-vagrant suspend 
+vagrant suspend  
 vagrant halt  
-vagrant destroy 
-
+vagrant destroy   
